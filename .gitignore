@@ -1,0 +1,14 @@
+# Cached race data — re-downloadable from FastF1, never commit
+cache/
+
+# Python bytecode / packaging
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local artifacts
+smoke/
+.venv/
+venv/
+.DS_Store

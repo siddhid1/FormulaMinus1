@@ -1,0 +1,8 @@
+# F1 Replay dependencies
+# Note: pygame-ce provides the `pygame` import; stock `pygame` has no wheels
+# for Python 3.14 yet.
+fastf1>=3.8
+pygame-ce>=2.5
+numpy>=2.0
+pandas>=2.0
+scipy>=1.15
