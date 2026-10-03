@@ -154,10 +154,6 @@ tests/
   test_controls.py       headless input & crash-regression suite
 ```
 
-📖 **[Developer internals deep dive](docs/DEEP_DIVE.md)** — full data-flow,
-the algorithms with the math (projection, race-progress integration, DRS
-detection), per-module walkthroughs, performance notes and bug postmortems.
-
 Key data notes:
 
 - Position + telemetry come from FastF1's merged car channels; the track
